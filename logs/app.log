@@ -1,0 +1,122 @@
+2023-12-25 11:03:48,156 - INFO - starting FLASK Application
+2023-12-25 11:30:21,771 - INFO - starting FLASK Application
+2023-12-25 11:31:08,308 - INFO - starting FLASK Application
+2023-12-25 11:31:20,185 - INFO - starting FLASK Application
+2023-12-25 11:31:36,224 - INFO - starting FLASK Application
+2023-12-25 11:36:24,783 - INFO - starting FLASK Application
+2023-12-25 11:37:01,734 - INFO - starting FLASK Application
+2023-12-25 11:37:20,367 - INFO - starting FLASK Application
+2023-12-25 11:38:10,511 - INFO - starting FLASK Application
+2023-12-25 11:38:18,245 - INFO - starting FLASK Application
+2023-12-25 11:38:56,934 - INFO - starting FLASK Application
+2023-12-25 11:39:05,331 - INFO - starting FLASK Application
+2023-12-25 11:39:29,853 - INFO - starting FLASK Application
+2023-12-25 11:39:35,547 - INFO - starting FLASK Application
+2023-12-25 11:41:00,200 - INFO - starting FLASK Application
+2023-12-25 11:49:41,640 - INFO - starting FLASK Application
+2023-12-25 11:52:33,915 - INFO - starting FLASK Application
+2023-12-25 11:53:17,641 - INFO - starting FLASK Application
+2023-12-25 11:53:43,688 - INFO - starting FLASK Application
+2023-12-25 12:04:07,793 - INFO - starting FLASK Application
+2023-12-25 12:05:10,534 - INFO - starting FLASK Application
+2023-12-25 12:07:21,018 - INFO - starting FLASK Application
+2023-12-25 12:07:39,520 - INFO - starting FLASK Application
+2023-12-25 12:09:30,665 - INFO - starting FLASK Application
+2023-12-25 12:09:52,030 - INFO - starting FLASK Application
+2023-12-25 12:10:34,254 - INFO - starting FLASK Application
+2023-12-25 12:12:36,350 - INFO - starting FLASK Application
+2023-12-25 12:13:46,724 - INFO - starting FLASK Application
+2023-12-25 12:17:22,959 - INFO - starting FLASK Application
+2023-12-25 12:19:49,945 - INFO - starting FLASK Application
+2023-12-25 12:20:13,282 - INFO - starting FLASK Application
+2023-12-25 12:20:56,917 - INFO - starting FLASK Application
+2023-12-25 12:25:31,777 - INFO - starting FLASK Application
+2023-12-25 12:27:11,542 - INFO - starting FLASK Application
+2023-12-25 12:28:07,195 - INFO - starting FLASK Application
+2023-12-25 12:33:13,495 - INFO - starting FLASK Application
+2023-12-25 12:33:55,783 - INFO - starting FLASK Application
+2023-12-25 12:37:26,113 - INFO - starting FLASK Application
+2023-12-25 12:38:07,372 - INFO - starting FLASK Application
+2023-12-25 12:39:04,774 - INFO - starting FLASK Application
+2023-12-25 12:42:58,441 - INFO - starting FLASK Application
+2023-12-25 12:43:31,673 - INFO - starting FLASK Application
+2023-12-25 12:45:47,359 - INFO - starting FLASK Application
+2023-12-25 12:46:20,849 - INFO - starting FLASK Application
+2023-12-25 12:51:31,923 - INFO - starting FLASK Application
+2023-12-25 12:53:42,712 - INFO - starting FLASK Application
+2023-12-25 12:54:06,894 - INFO - starting FLASK Application
+2023-12-25 12:54:45,003 - INFO - starting FLASK Application
+2023-12-25 13:30:07,381 - INFO - starting FLASK Application
+2023-12-25 13:32:42,474 - INFO - starting FLASK Application
+2023-12-25 13:36:43,868 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 13:36:43,922 : [_internal.py:96] INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-25 13:36:43,922 : [_internal.py:96] INFO -[33mPress CTRL+C to quit[0m
+2023-12-25 13:36:50,980 : [product_controller.py:10] INFO -adding product
+2023-12-25 13:36:50,980 : [product_controller.py:45] ERROR -'price'
+Traceback (most recent call last):
+  File "C:\Users\devel\Downloads\project\src\controller\product_controller.py", line 15, in add_product
+    price=data['price']
+KeyError: 'price'
+2023-12-25 13:36:50,982 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 13:36:50] "[31m[1mPOST /api/products HTTP/1.1[0m" 400 -
+2023-12-25 13:37:23,707 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 13:37:23,773 : [_internal.py:96] INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-25 13:37:23,774 : [_internal.py:96] INFO -[33mPress CTRL+C to quit[0m
+2023-12-25 13:37:24,953 : [product_controller.py:10] INFO -adding product
+2023-12-25 13:37:24,953 : [product_controller.py:45] ERROR -'price'
+2023-12-25 13:37:24,954 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 13:37:24] "[31m[1mPOST /api/products HTTP/1.1[0m" 400 -
+2023-12-25 13:37:55,703 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 13:37:55,775 : [_internal.py:96] INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-25 13:37:55,776 : [_internal.py:96] INFO -[33mPress CTRL+C to quit[0m
+2023-12-25 20:40:12,707 : [product_controller.py:10] INFO -adding product
+2023-12-25 20:40:12,717 : [product_controller.py:45] ERROR -'price'
+Traceback (most recent call last):
+  File "C:\Users\devel\Downloads\project\src\controller\product_controller.py", line 15, in add_product
+    price=data['price']
+KeyError: 'price'
+2023-12-25 20:40:12,806 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:40:12] "[31m[1mPOST /api/products HTTP/1.1[0m" 400 -
+2023-12-25 20:40:58,365 : [product_controller.py:10] INFO -adding product
+2023-12-25 20:40:58,993 : [product_controller.py:41] INFO -Product Added
+2023-12-25 20:40:58,995 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:40:58] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2023-12-25 20:41:51,757 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:41:51] "GET /api/products HTTP/1.1" 200 -
+2023-12-25 20:42:11,466 : [product_controller.py:70] INFO -getting details for product_id :- 1
+2023-12-25 20:42:11,498 : [product_controller.py:79] INFO -details found
+2023-12-25 20:42:11,502 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:42:11] "GET /api/products/1 HTTP/1.1" 200 -
+2023-12-25 20:42:13,706 : [product_controller.py:70] INFO -getting details for product_id :- 1
+2023-12-25 20:42:13,719 : [product_controller.py:79] INFO -details found
+2023-12-25 20:42:13,722 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:42:13] "GET /api/products/1 HTTP/1.1" 200 -
+2023-12-25 20:43:35,898 : [product_controller.py:10] INFO -adding product
+2023-12-25 20:43:35,928 : [product_controller.py:41] INFO -Product Added
+2023-12-25 20:43:35,930 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:43:35] "[35m[1mPOST /api/products HTTP/1.1[0m" 201 -
+2023-12-25 20:45:23,539 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:45:23] "GET /api/products HTTP/1.1" 200 -
+2023-12-25 20:45:31,029 : [product_controller.py:70] INFO -getting details for product_id :- 1
+2023-12-25 20:45:31,038 : [product_controller.py:79] INFO -details found
+2023-12-25 20:45:31,040 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:45:31] "GET /api/products/1 HTTP/1.1" 200 -
+2023-12-25 20:45:42,913 : [product_controller.py:104] INFO -deleting product :- 1
+2023-12-25 20:45:42,956 : [product_controller.py:108] INFO -deleted product
+2023-12-25 20:45:42,959 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:45:42] "DELETE /api/products/1 HTTP/1.1" 200 -
+2023-12-25 20:46:11,547 : [product_controller.py:89] INFO -updating product :- 2
+2023-12-25 20:46:11,585 : [product_controller.py:95] INFO -updated product
+2023-12-25 20:46:11,586 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:46:11] "PUT /api/products/2 HTTP/1.1" 200 -
+2023-12-25 20:52:52,997 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 20:52:59,707 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 20:53:49,326 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 20:54:08,094 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 20:54:30,697 : [__init__.py:19] INFO -starting FLASK Application
+2023-12-25 20:54:30,787 : [_internal.py:96] INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-25 20:54:30,788 : [_internal.py:96] INFO -[33mPress CTRL+C to quit[0m
+2023-12-25 20:56:44,227 : [product_controller.py:70] INFO -getting details for product_id :- 2
+2023-12-25 20:56:44,559 : [product_controller.py:79] INFO -details found
+2023-12-25 20:56:44,566 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:56:44] "GET /api/products/2 HTTP/1.1" 200 -
+2023-12-25 20:56:52,767 : [_internal.py:96] INFO -127.0.0.1 - - [25/Dec/2023 20:56:52] "GET /api/products HTTP/1.1" 200 -
+2023-12-25 21:16:03,144 : [__init__.py:18] INFO -starting FLASK Application
+2023-12-25 21:16:37,242 : [__init__.py:18] INFO -starting FLASK Application
+2023-12-25 21:16:50,076 : [__init__.py:18] INFO -starting FLASK Application
+2023-12-25 21:17:55,009 : [__init__.py:18] INFO -starting FLASK Application
+2023-12-25 21:19:25,609 : [__init__.py:18] INFO -starting FLASK Application
+2023-12-25 21:19:25,690 : [_internal.py:96] INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-12-25 21:19:25,691 : [_internal.py:96] INFO -[33mPress CTRL+C to quit[0m
